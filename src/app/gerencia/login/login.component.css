@@ -1,0 +1,10 @@
+.logo {
+  width: 12rem;
+  height: 12rem;
+  border-radius: 50rem;
+  margin: 5rem 0 2rem 0;
+}
+
+.body { margin: 2rem 0 1.5rem 0; }
+
+mat-form-field, .submit-button { width: 15rem; }
